@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vaS9ZLsxm0GmZ1mO9D/GV36V7GWksvzKRDO3OfDm8+I=",
+  "Hash": "dW8xZeWA3mEu0ndrVCIuXM2X1FYEcTjtbFeWNGKhh7g=",
   "Source": "LatihanCRUDRazorWeb",
   "BasePath": "_content/LatihanCRUDRazorWeb",
   "Mode": "Default",
@@ -1195,12 +1195,12 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20231210011350564.jpg",
+      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20240103011052200.png",
       "SourceId": "LatihanCRUDRazorWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/",
       "BasePath": "_content/LatihanCRUDRazorWeb",
-      "RelativePath": "products/20231210011350564.jpg",
+      "RelativePath": "products/20240103011052200.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1211,15 +1211,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/products/20231210011350564.jpg"
+      "OriginalItemSpec": "wwwroot/products/20240103011052200.png"
     },
     {
-      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20231210011411368.JPG",
+      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20240103011125833.png",
       "SourceId": "LatihanCRUDRazorWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/",
       "BasePath": "_content/LatihanCRUDRazorWeb",
-      "RelativePath": "products/20231210011411368.JPG",
+      "RelativePath": "products/20240103011125833.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1230,15 +1230,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/products/20231210011411368.JPG"
+      "OriginalItemSpec": "wwwroot/products/20240103011125833.png"
     },
     {
-      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20231210011432398.jpg",
+      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20240103011211892.jpeg",
       "SourceId": "LatihanCRUDRazorWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/",
       "BasePath": "_content/LatihanCRUDRazorWeb",
-      "RelativePath": "products/20231210011432398.jpg",
+      "RelativePath": "products/20240103011211892.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,15 +1249,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/products/20231210011432398.jpg"
+      "OriginalItemSpec": "wwwroot/products/20240103011211892.jpeg"
     },
     {
-      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20231210011507132.jpg",
+      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20240103011253762.jpeg",
       "SourceId": "LatihanCRUDRazorWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/",
       "BasePath": "_content/LatihanCRUDRazorWeb",
-      "RelativePath": "products/20231210011507132.jpg",
+      "RelativePath": "products/20240103011253762.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1268,15 +1268,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/products/20231210011507132.jpg"
+      "OriginalItemSpec": "wwwroot/products/20240103011253762.jpeg"
     },
     {
-      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20231210011528604.jpg",
+      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20240103011333466.jpeg",
       "SourceId": "LatihanCRUDRazorWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/",
       "BasePath": "_content/LatihanCRUDRazorWeb",
-      "RelativePath": "products/20231210011528604.jpg",
+      "RelativePath": "products/20240103011333466.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,15 +1287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/products/20231210011528604.jpg"
+      "OriginalItemSpec": "wwwroot/products/20240103011333466.jpeg"
     },
     {
-      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20231210011547653.jpeg",
+      "Identity": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/products/20240103011503880.pdf",
       "SourceId": "LatihanCRUDRazorWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/wwwroot/",
       "BasePath": "_content/LatihanCRUDRazorWeb",
-      "RelativePath": "products/20231210011547653.jpeg",
+      "RelativePath": "products/20240103011503880.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,7 +1306,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/products/20231210011547653.jpeg"
+      "OriginalItemSpec": "wwwroot/products/20240103011503880.pdf"
     }
   ]
 }
