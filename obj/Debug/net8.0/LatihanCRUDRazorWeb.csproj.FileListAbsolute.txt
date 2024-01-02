@@ -102,3 +102,4 @@
 /Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/obj/Debug/net8.0/LatihanCRUDRazorWeb.pdb
 /Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/obj/Debug/net8.0/LatihanCRUDRazorWeb.genruntimeconfig.cache
 /Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/obj/Debug/net8.0/ref/LatihanCRUDRazorWeb.dll
+/Users/achmadramadhani/Projects/LatihanCRUDRazorWeb/LatihanCRUDRazorWeb/obj/Debug/net8.0/LatihanCRUDRazorWeb.sourcelink.json
